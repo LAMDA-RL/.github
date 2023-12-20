@@ -4,6 +4,6 @@ We are a fork of researchers from [LAMDA Group @ Nanjing University](https://www
 + Representation Learning (RepL)
 + Transfer Learning
 + Imitation Learning
-+ Decision Making with Large Language Models (LLMs)
++ Decision Making with Generative Models, e.g., Large Language Models (LLMs), diffusion, etc.
 
 This organization repo open-sources the codes of our latest papers as well as useful tool-kits for RL algorithm designing. 
